@@ -1,0 +1,1 @@
+/home/ocr/.dotfiles/.bashrc
